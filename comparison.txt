@@ -1,0 +1,3 @@
+Using TensorFlow Accuracy = 82.26%
+Using Modules Accuracy = 70%
+Using SKlearn Accuracy = 82.78%
